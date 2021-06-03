@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lovers fancy. Or True love requited with constancy being a civil discourse between John and Anne. the young man he was constant unto the end, the maid at last she prov'd his loving friend: young men and maids that stand to hear this song, then mind it well, do not each other wrong: young men, prove constant, faithful, true and just, and then the maids may better to you trust. To the tune of Loves fancy.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26272</idno><idno type="EEBO-CITATION">99827890</idno>
+  <idno type="VID">198062</idno>
+  <idno type="EEBO-PROQUEST">2248501669</idno>
+  
+            <idno type="STC">Wing L3253</idno>
+            <idno type="PROQUEST">99827890</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827890e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26272)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198062)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21232:198-199)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lovers fancy. Or True love requited with constancy being a civil discourse between John and Anne. the young man he was constant unto the end, the maid at last she prov'd his loving friend: young men and maids that stand to hear this song, then mind it well, do not each other wrong: young men, prove constant, faithful, true and just, and then the maids may better to you trust. To the tune of Loves fancy.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for F. Coles, T. Vere, J. Wright, and J. Clarke,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "As lately abroad I was walking,".</note>
+                  <note>Wing estimates 1674-1679 as publication date.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:198062:1"/>
+            <head>The Lovers Fancy. Or True Love requited with Constancy: <hi>Being a Civil Discourse between</hi> John <hi>and</hi> Anne.</head>
+            <argument>
+               <q>
+                  <l>The Young man he was constant unto the end,</l>
+                  <l>The Maid at last she prov'd his loving friend:</l>
+                  <l>Y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ung Men and Maids that stand to hear this <hi>Song,</hi>
+                  </l>
+                  <l>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en mi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d it well, do not each other wrong:</l>
+                  <l>Young Men, prove constant, faithful, true and just,</l>
+                  <l>And then the Maids may better to you trust.</l>
+               </q>
+            </argument>
+            <opener>
+               <hi>To the tune of</hi> Loves Fancy.</opener>
+            <p>
+               <figure>
+                  <figDesc>a man and a woman holdig hands</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>AS lately abroad I was walking,</l>
+               <l>it was in the prime of the spring,</l>
+               <l>I spied two Lovers were talking</l>
+               <l>the birds they did swéetly sing:</l>
+               <l>A listned a while unto them</l>
+               <l>to hear what these Lovers did say:</l>
+               <l>The young man he kindly woo'd her</l>
+               <l>and call'd her his Love and his joy,</l>
+               <l>And often he said sweet <hi>Nancy</hi>
+               </l>
+               <l>I love thee as dear as my life</l>
+               <l>And constant i'le prove unto thee</l>
+               <l>if thou wilt but be my wife.</l>
+            </lg>
+            <lg>
+               <l>The young man was handsome &amp; pretty</l>
+               <l>the maid she was wondrous fair</l>
+               <l>There is not two more in the City</l>
+               <l>I think, that can with them compare,</l>
+               <l>Then listen a while you Lovers</l>
+               <l>to what in my Ditty is pen'd,</l>
+               <l>And see that you prove as constant</l>
+               <l>and faithful unto the end:</l>
+               <l>And he began to woo her</l>
+               <l>to tell her some part of his mind</l>
+               <l>And often he said unto her</l>
+               <l>I prethee sweet <hi>Nancy</hi> be kind.</l>
+            </lg>
+            <lg>
+               <l>Come hither my amorous Girl,</l>
+               <l>I prethee come sit down by me;</l>
+               <l>I love thee far better than Pearl,</l>
+               <l>if that we two can but agrée:</l>
+               <l>Long time I have truly lov'd thée,</l>
+               <l>but never till now could I find</l>
+               <l>A place that was more convenient</l>
+               <l>to tell thée some part of my mind:</l>
+               <l>Then prethee sit down, swéet <hi>Nancy,</hi>
+               </l>
+               <l>I love thee as dear as my life,</l>
+               <l>And constan i'le prove unto thee,</l>
+               <l>if thou wilt but be my wife.</l>
+            </lg>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>O sir! you have been a stranger,</l>
+               <l>I have not seen you a great while,</l>
+               <l>What fortune had I for to meet thee</l>
+               <l>thou makest my worship to smile:</l>
+               <l>Surely you do come for to wooe me</l>
+               <l>your tongue it so nimbly doth run,</l>
+               <l>But if that you should dissemble,</l>
+               <l>then surely I were undone</l>
+               <l>For young men will cog &amp; dissemble</l>
+               <l>also they will flatter &amp; lie</l>
+               <l>And speak much in praise of maids beauty</l>
+               <l>only their humors to try.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:198062:1"/>
+               <speaker>Man.</speaker>
+               <l>TO spak Love in praise of thy Beauty</l>
+               <l>it is but a needlesse thing</l>
+               <l>For it is for pure love that I woo thee</l>
+               <l>and <hi>Love</hi> it will conquer a King:</l>
+               <l>Brave Lords they submit unto it</l>
+               <l>and Ladies are forc'd to obey.</l>
+               <l>Then p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t, e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> love, prove not cruel</l>
+               <l>nor cast not a man away</l>
+               <l>Then prethee sit down sweet <hi>Nancy</hi>
+               </l>
+               <l>I love thee as dear as my life,</l>
+               <l>And constant i'le prove unto thee</l>
+               <l>if thou wilt but be my wife.</l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>To tell me of love is but folly</l>
+               <l>for which I do plainly see</l>
+               <l>When as a young couple are married</l>
+               <l>and fall into Poverty;</l>
+               <l>Then Love it is quickly f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ding</l>
+               <l>nay true love it falls to decay,</l>
+               <l>Then prethee do not dissemble</l>
+               <l>nor seek a maid to betray:</l>
+               <l>For my mother hath often told me,</l>
+               <l>and sometimes hath be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ten me</l>
+               <l>And swears she will never abide me</l>
+               <l>if that I should marry with thee.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>I fear not thy friends displeasure</l>
+               <l>nor not if thy mother do frown</l>
+               <l>For thou art my c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iefest treasure</l>
+               <l>of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll the maids in the town:</l>
+               <l>I pri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e thee far better then Rubies</l>
+               <l>or Pearl that is placed in Gold,</l>
+               <l>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y fig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t it doth so rejoyce me</l>
+               <l>when as I thy person behold</l>
+               <l>Then <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ethee sit down sweet <hi>Nancy</hi>
+               </l>
+               <l>I love thee as dear as my life</l>
+               <l>and constant I will prove to thee</l>
+               <l>if thou wilt but be my wife.</l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>You say you will prove constant</l>
+               <l>and love me as dear as your life</l>
+               <l>Also you do vow to be faithful</l>
+               <l>if that I will but be thy wife:</l>
+               <l>But what hast thou for to maintain me</l>
+               <l>that's a thing to be consider'd on?</l>
+               <l>Come tell me &amp; do not dissemble</l>
+               <l>or else prethee let me be gon.</l>
+               <l>For young men will proffer great matters</l>
+               <l>when as they a woing do go</l>
+               <l>But when that they once are married,</l>
+               <l>maids find it is nothing so.</l>
+            </sp>
+            <sp>
+               <speaker>Man,</speaker>
+               <l>To tell the of Lands or livings,</l>
+               <l>I need not the same to repeat</l>
+               <l>For truly love I have none for thee</l>
+               <l>but what with my hands I must get</l>
+               <l>Yet labour I will to maintain thee,</l>
+               <l>and work till my fingers are sore:</l>
+               <l>Then prethee love do not disdain me</l>
+               <l>why canst thou desire more?</l>
+               <l>Then turn to me <hi>Nancy</hi> &amp; kisse me</l>
+               <l>and grant me a loving reply,</l>
+               <l>For if that thou prove cruel</l>
+               <l>surely for love I shall dye.</l>
+               <l>I scorn for to cog or to flatter,</l>
+               <l>or promise thee more then I have</l>
+               <l>Yet truly I'le do my endeavour love,</l>
+               <l>all that I c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n get for to save,</l>
+               <l>Ile give it to thee my Hony</l>
+               <l>to buy the what ere thou dost lack</l>
+               <l>Provision to nourish thy body</l>
+               <l>and cloaths to put on thy back:</l>
+               <l>Then turn to me <hi>Nancy</hi> &amp; kisse me</l>
+               <l>and grant me a loving reply</l>
+               <l>For if that thou provest cruel</l>
+               <l>surely for love, <hi>&amp;c</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>You speak very honest and civi</l>
+               <l>but yet I am loath for to yield;</l>
+               <l>But many a s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ort-hearted Souldier</l>
+               <l>is forc't for to give up the field,</l>
+               <l>And if I should yield unto thee</l>
+               <l>to marry thee and be thy wife,</l>
+               <l>And that I should not live in quiet</l>
+               <l>and peace all the days of my life,</l>
+               <l>Then sure <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y heart would be broken;</l>
+               <l>nay, Maidens would l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ugh and would say</l>
+               <l>That there goes as harmless a Girl</l>
+               <l>as ever Young man did betray.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>No Woman that lives in the City</l>
+               <l>sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll live a more peaceable life,</l>
+               <l>I'le do my endeavour to please thee too,</l>
+               <l>if thou wilt but be my Wife:</l>
+               <l>Thou ner'e shalt have cause to be angry</l>
+               <l>with any thing that I do say,</l>
+               <l>Then prethee, Love, prove not cruel,</l>
+               <l>nor cast not a man away,</l>
+               <l>Then turn to me, <hi>Nancy,</hi> and kiss me,</l>
+               <l>I love thee as dear as my life,</l>
+               <l>And constant I will prove to thee,</l>
+               <l>if thou wilt but be my Wife.</l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>Well, séeing thou wilt prove constant,</l>
+               <l>as faithful i<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le prove unto thee;</l>
+               <l>Lets point a day then for certain</l>
+               <l>when as our Wedding shall be:</l>
+               <l>Then p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ethee, Love, cast away sorrow,</l>
+               <l>to morrow shall be the day,</l>
+               <l>On <hi>Thursday</hi> we mean to be married,</l>
+               <l>on <hi>Fryday</hi> we mean for to play,</l>
+               <l>On <hi>Saturday</hi> go to the Market,</l>
+               <l>and on <hi>Sunday</hi> we'l go to the Church,</l>
+               <l>And on <hi>Monday</hi> we'l fall to our labour</l>
+               <l>to put the young Child<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en to Nurse.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>And these two Lovers departed,</l>
+               <l>and homeward they went with all spee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Whereafter I hear of their Neighbou</l>
+               <l>this couple they lovingly agreed:</l>
+               <l>I wish them much joy together,</l>
+               <l>a long and a peaceable life,</l>
+               <l>That he prove a careful Husband,</l>
+               <l>and she prove a loving Wife.</l>
+               <l>Then all You that hear my Ditty,</l>
+               <l>come buy it and hear it away,</l>
+               <l>The price of it is but a penny,</l>
+               <l>then take it home with You, I pray.</l>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London <hi>Printed for</hi>
+               </hi> F. Coles, T. Vere, J. Wright, and J. Clarke.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
